@@ -1,0 +1,5 @@
+Discounted price = 190.0
+Discounted price = 900.0
+Discounted price = 1800.0
+Discounted price = 1350.0
+Discounted price = 3400.0
